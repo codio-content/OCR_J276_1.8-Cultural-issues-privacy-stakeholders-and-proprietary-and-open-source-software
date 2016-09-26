@@ -1,0 +1,5 @@
+- Retailers can now target customers all over the world, using the internet. 
+- The web site has become a new store so that a high street presence is not needed.
+- Customers have a far greater choice and can select from suppliers all over the world.
+- Broadband allows more people to work from home or coffee shops meaning there is less need for office space.
+- The internet allows people to collaborate on projects with co-workers in different parts of the world.

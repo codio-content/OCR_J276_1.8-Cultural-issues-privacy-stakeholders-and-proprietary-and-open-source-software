@@ -1,0 +1,143 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2059705674",
+  "source": {
+   "name": "Question1",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "Computer science has had a huge effect on culture and society. Mobile devices have improved <<<communication>>> between people. \nIn addition to voice calls people can contact each other using <<<texts>>> and by <<<video>>> conferencing.\n<<<Social media>>> allow people to share images, videos and <<<music>>> with friends. \nComputer science has changed the ways in which people sell and buy goods as most businesses sell from <<<websites>>> and people buy more <<<online>>>. \nIt has also had an effect on <<<entertainment>>> as people can <<<stream>>> the programs they want to watch at any time. \nIn the field of <<<education>>> computer science has allowed the development of virtual VLEs which are <<<virtual>>> <<<learning>>> <<<environments>>> and most classrooms have an <<<interactive>>> whiteboard. \nIt has led to the development of body <<<scanners>>> for the diagnosis of disease and the use of <<<robots>>> in operations.",
+   "tokens": {
+    "blank": [
+     "communication",
+     "texts",
+     "video",
+     "Social media",
+     "music",
+     "websites",
+     "online",
+     "entertainment",
+     "stream",
+     "education",
+     "virtual",
+     "learning",
+     "environments",
+     "interactive",
+     "scanners",
+     "robots"
+    ],
+    "text": [
+     "Computer science has had a huge effect on culture and society. Mobile devices have improved ",
+     0,
+     " between people. \nIn addition to voice calls people can contact each other using ",
+     0,
+     " and by ",
+     0,
+     " conferencing.\n",
+     0,
+     " allow people to share images, videos and ",
+     0,
+     " with friends. \nComputer science has changed the ways in which people sell and buy goods as most businesses sell from ",
+     0,
+     " and people buy more ",
+     0,
+     ". \nIt has also had an effect on ",
+     0,
+     " as people can ",
+     0,
+     " the programs they want to watch at any time. \nIn the field of ",
+     0,
+     " computer science has allowed the development of virtual VLEs which are ",
+     0,
+     " ",
+     0,
+     " ",
+     0,
+     " and most classrooms have an ",
+     0,
+     " whiteboard. \nIt has led to the development of body ",
+     0,
+     " for the diagnosis of disease and the use of ",
+     0,
+     " in operations."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-4050850517",
+  "source": {
+   "name": "Question2",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "We are all <<<stakeholders>>> in the <<<society>>> in which we live and should all <<<benefit>>> from developments in computer science technologies. Unfortunately some people benefit less than others and this is known as the <<<digital>>> <<<divide>>>.",
+   "tokens": {
+    "blank": [
+     "stakeholders",
+     "society",
+     "benefit",
+     "digital",
+     "divide"
+    ],
+    "text": [
+     "We are all ",
+     0,
+     " in the ",
+     0,
+     " in which we live and should all ",
+     0,
+     " from developments in computer science technologies. Unfortunately some people benefit less than others and this is known as the ",
+     0,
+     " ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1267866534",
+  "source": {
+   "name": "Question 3",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "People are worried about the effects of computer science on their privacy. <<<Surveillance>>> cameras all ow people to be <<<tracked>>> in most cities and towns and the <<<location>>> of a person’s mobile phone can be easily found by comparing its strength from different phone <<<masts>>>. \nA person’s online activity is also recorded by their ISP or <<<internet>>> <<<service.>>> <<<provider>>>.\n\n",
+   "tokens": {
+    "blank": [
+     "Surveillance",
+     "tracked",
+     "location",
+     "masts",
+     "internet",
+     "service.",
+     "provider"
+    ],
+    "text": [
+     "People are worried about the effects of computer science on their privacy. ",
+     0,
+     " cameras all ow people to be ",
+     0,
+     " in most cities and towns and the ",
+     0,
+     " of a person’s mobile phone can be easily found by comparing its strength from different phone ",
+     0,
+     ". \nA person’s online activity is also recorded by their ISP or ",
+     0,
+     " ",
+     0,
+     " ",
+     0,
+     ".\n\n"
+    ]
+   }
+  }
+ }
+]

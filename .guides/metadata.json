@@ -1,0 +1,139 @@
+{
+ "sections": [
+  {
+   "id": "90d95289-02b8-bd36-67f5-a110df81d049",
+   "title": "Cultural issues, privacy, stakeholders and proprietary and open source software",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Cultural-issues--privacy--stakeholders-and-proprietary-and-open-source-software-90d9.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "3aa344c9-e3b3-3e6c-4e83-5044c7a290c7",
+   "title": "The cultural impact of computer science",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-cultural-impact-of-computer-science-3aa3.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "26f5b3aa-1886-14b8-606e-da5215de7a6d",
+   "title": "Communication",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Communication-26f5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "46142700-0efd-a90a-d666-48723a1c4cd2",
+   "title": "Business, commerce and work",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Business--commerce-and-work-4614.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "27163dc2-b2db-ab28-bff9-bfe1ac09557a",
+   "title": "Entertainment",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Entertainment-2716.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c4bdeec9-a25e-a13f-e057-b0779ac6688e",
+   "title": "Education",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Education-c4bd.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "5b279b72-443c-9aed-85ac-cf96d7da52a0",
+   "title": "Medicine",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Medicine-5b27.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d3d7f82c-3e05-3ddc-2cbc-fa6a3a2a17d9",
+   "title": "Stakeholders",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Stakeholders-d3d7.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "db7190fb-a93f-c506-8f79-ef36736fe95d",
+   "title": "Privacy",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Privacy-db71.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "0d33ee6a-5574-75da-0d6b-dd77c28bb68f",
+   "title": "Proprietary and open source software",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Proprietary-and-open-source-software-0d33.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "6475b3c4-fb36-af1b-2fa7-7ebe550052b7",
+   "title": "Summary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Summary-6475.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "70b12faf-6bad-7eb6-6a1b-38335955510b",
+   "title": "Questions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Questions-70b1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

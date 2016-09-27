@@ -24,7 +24,11 @@ Apart from the fact that one type must be paid for and the other is free, there 
 - It is free to use.
 - Users can change and upgrade the software to meet their needs.
 - There is a community of dedicated enthusiasts who will provide help and support.
+- Dedicated users will continually fix bugs and update the software for free.
+- Users have more control over the software they are using.
 - It may need specialist knowledge to install and develop the software.
-- It may not appear as professional as proprietary software or have such a user-friendly interface.
-- It may not be completely compatible with proprietary software suites.
+
+Have a look at this video:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a8fHgx9mE5U" frameborder="0" allowfullscreen></iframe>
+
 

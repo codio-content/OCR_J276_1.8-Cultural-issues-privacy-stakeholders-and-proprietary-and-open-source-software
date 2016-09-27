@@ -6,3 +6,8 @@ Computer science has made it possible to monitor the communications of all citiz
 - The location of a phone can be tracked by comparing the phone’s signal strength from different phone masts.
 - Online activity is recorded by ISPs. All items of browsing history – searches, links followed, items bought online – can be monitored and used for targeted advertising.
 - Social networking sites store a vast amount of information about our movements, communications, habits and activities.
+
+Have a look at these videos:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSjEAffjPJU" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8gR7PNwWqL0" frameborder="0" allowfullscreen></iframe>

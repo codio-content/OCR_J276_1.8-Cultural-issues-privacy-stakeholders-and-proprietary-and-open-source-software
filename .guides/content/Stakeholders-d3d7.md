@@ -9,3 +9,6 @@ Unfortunately not everyone benefits equally and there is a digital divide with s
 This may be due to lack of education, money or the infrastructure of the countries in which they live. Even in this country there is a digital divide between the people who have fast broadband access to the internet and those who do not.
 
 It is an ethical responsibility of all societies to reduce and eliminate this digital divide.
+
+Have a look at this video:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hn18X4-PSPc" frameborder="0" allowfullscreen></iframe>

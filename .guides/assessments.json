@@ -8,25 +8,14 @@
    "instructions": "**Select correct answers from the available list**",
    "points": "1",
    "showValues": true,
-   "text": "Computer science has had a huge effect on culture and society. Mobile devices have improved <<<communication>>> between people. \nIn addition to voice calls people can contact each other using <<<texts>>> and by <<<video>>> conferencing.\n<<<Social media>>> allow people to share images, videos and <<<music>>> with friends. \nComputer science has changed the ways in which people sell and buy goods as most businesses sell from <<<websites>>> and people buy more <<<online>>>. \nIt has also had an effect on <<<entertainment>>> as people can <<<stream>>> the programs they want to watch at any time. \nIn the field of <<<education>>> computer science has allowed the development of virtual VLEs which are <<<virtual>>> <<<learning>>> <<<environments>>> and most classrooms have an <<<interactive>>> whiteboard. \nIt has led to the development of body <<<scanners>>> for the diagnosis of disease and the use of <<<robots>>> in operations.",
+   "text": "Computer science has had a huge effect on culture and society. Mobile devices have improved <<<communication>>> between people. \nIn addition to voice calls people can contact each other using <<<texts>>> and by <<<video>>> conferencing.\n<<<Social media>>> allow people to share images, videos and <<<music>>> with friends. \n",
    "tokens": {
     "blank": [
      "communication",
      "texts",
      "video",
      "Social media",
-     "music",
-     "websites",
-     "online",
-     "entertainment",
-     "stream",
-     "education",
-     "virtual",
-     "learning",
-     "environments",
-     "interactive",
-     "scanners",
-     "robots"
+     "music"
     ],
     "text": [
      "Computer science has had a huge effect on culture and society. Mobile devices have improved ",
@@ -39,29 +28,7 @@
      0,
      " allow people to share images, videos and ",
      0,
-     " with friends. \nComputer science has changed the ways in which people sell and buy goods as most businesses sell from ",
-     0,
-     " and people buy more ",
-     0,
-     ". \nIt has also had an effect on ",
-     0,
-     " as people can ",
-     0,
-     " the programs they want to watch at any time. \nIn the field of ",
-     0,
-     " computer science has allowed the development of virtual VLEs which are ",
-     0,
-     " ",
-     0,
-     " ",
-     0,
-     " and most classrooms have an ",
-     0,
-     " whiteboard. \nIt has led to the development of body ",
-     0,
-     " for the diagnosis of disease and the use of ",
-     0,
-     " in operations."
+     " with friends. \n"
     ]
    }
   }
@@ -70,7 +37,7 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-4050850517",
   "source": {
-   "name": "Question2",
+   "name": "Question 4",
    "showName": false,
    "instructions": "**Select correct answers from the available list**",
    "points": "1",
@@ -104,7 +71,7 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-1267866534",
   "source": {
-   "name": "Question 3",
+   "name": "Question 5",
    "showName": false,
    "instructions": "**Select correct answers from the available list**",
    "points": "1",
@@ -136,6 +103,77 @@
      " ",
      0,
      ".\n\n"
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3124761957",
+  "source": {
+   "name": "Question 2",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "Computer science has changed the ways in which people sell and buy goods as most businesses sell from <<<websites>>> and people buy more <<<online>>>. \nIt has also had an effect on <<<entertainment>>> as people can <<<stream>>> the programs they want to watch at any time. \n",
+   "tokens": {
+    "blank": [
+     "websites",
+     "online",
+     "entertainment",
+     "stream"
+    ],
+    "text": [
+     "Computer science has changed the ways in which people sell and buy goods as most businesses sell from ",
+     0,
+     " and people buy more ",
+     0,
+     ". \nIt has also had an effect on ",
+     0,
+     " as people can ",
+     0,
+     " the programs they want to watch at any time. \n"
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1719782160",
+  "source": {
+   "name": "Question 3",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "In the field of <<<education>>> computer science has allowed the development of virtual VLEs which are <<<virtual>>> <<<learning>>> <<<environments>>> and most classrooms have an <<<interactive>>> whiteboard. \nIt has led to the development of body <<<scanners>>> for the diagnosis of disease and the use of <<<robots>>> in operations.",
+   "tokens": {
+    "blank": [
+     "education",
+     "virtual",
+     "learning",
+     "environments",
+     "interactive",
+     "scanners",
+     "robots"
+    ],
+    "text": [
+     "In the field of ",
+     0,
+     " computer science has allowed the development of virtual VLEs which are ",
+     0,
+     " ",
+     0,
+     " ",
+     0,
+     " and most classrooms have an ",
+     0,
+     " whiteboard. \nIt has led to the development of body ",
+     0,
+     " for the diagnosis of disease and the use of ",
+     0,
+     " in operations."
     ]
    }
   }

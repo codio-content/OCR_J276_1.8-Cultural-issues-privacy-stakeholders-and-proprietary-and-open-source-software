@@ -5,11 +5,24 @@ Now take a look at the following questions and see how much you have learned.
 Computer science has had a huge effect on culture and society. Mobile devices have improved **communication** between people. 
 In addition to voice calls people can contact each other using **texts** and by **video** conferencing.
 **Social media** allow people to share images, videos and **music** with friends. 
+|||
+{Check It!|assessment}(fill-in-the-blanks-3124761957)
+
+|||guidance
+# Solution
 Computer science has changed the ways in which people sell and buy goods as most businesses sell from **websites** and people buy more **online**. 
 It has also had an effect on **entertainment** as people can **stream** the programs they want to watch at any time. 
+
+|||
+{Check It!|assessment}(fill-in-the-blanks-1719782160)
+
+|||guidance
+# Solution
 In the field of **education** computer science has allowed the development of virtual VLEs which are **virtual** **learning** **environments** and most classrooms have an **interactive** whiteboard. 
 It has led to the development of body **scanners** for the diagnosis of disease and the use of **robots** in operations.
 |||
+
+
 {Check It!|assessment}(fill-in-the-blanks-4050850517)
 |||guidance
 # Solution
